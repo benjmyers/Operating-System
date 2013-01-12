@@ -1,0 +1,1 @@
+If this message prints out, then your readSector function is working correctly!
