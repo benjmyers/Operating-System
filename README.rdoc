@@ -1,0 +1,20 @@
+== Operating System
+
+My very own operating system that was written over the course of one semester. It is about as powerful as CP/M and can even parse simple MZ Executable files. It can perform the following commands:
+
+copy <filename1> <filename2>
+delete <filename>
+dir
+create <filename>
+run <program-name>
+kill <process-number>
+exe <executable-name>
+Everything needed to run the OS is on Github, including Dr. Michael Black’s computer simulator. By booting floopya.img in the same directory as all my OS files, the simulator will load my OS and say “Hello, Shell is Running!”
+ 
+To watch a video of it running go to http://www.myersmeredith.com/portfolio/operating-system/
+
+== License
+
+Distributed under the Apache License Version 2. See "license.txt" for more information.
+
+ 
